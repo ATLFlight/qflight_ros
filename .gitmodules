@@ -1,0 +1,9 @@
+[submodule "snav_ros"]
+	path = snav_ros
+	url = https://github.com/ATLFlight/snav_ros
+[submodule "snav_msgs"]
+	path = snav_msgs
+	url = https://github.com/ATLFlight/snav_msgs
+[submodule "qflight_descriptions"]
+	path = qflight_descriptions
+	url = https://github.com/ATLFlight/qflight_descriptions
